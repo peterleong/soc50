@@ -23,12 +23,19 @@ By: Dr Peter Leong (peterleong@sp.edu.sg)
 
 
 ## AI
+* What is AI?
 
 
 ## Stars Align
+* 5G
+* IOT
+* ROBOTICS
 
 
 ## Enabling Society 5.0
+* AI IOT 5G ROBOTICS: Foundations of Society 5.0
 
 
 ## The Future Now
+* [CEATEC 2019](https://www.forbes.com/sites/japan/2019/11/28/society-50-town-turns-heads-at-japans-ceatec-tech-show/#595fc4c5542f)
+
