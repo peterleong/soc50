@@ -24,7 +24,7 @@ By: Dr Peter Leong (peterleong@sp.edu.sg)
 
 ## AI
 * What is AI? https://www.britannica.com/technology/artificial-intelligence
- 
+* [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity) 
 
 
 
