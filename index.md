@@ -23,7 +23,9 @@ By: Dr Peter Leong (peterleong@sp.edu.sg)
 
 
 ## AI
-* What is AI?
+* What is AI? https://www.britannica.com/technology/artificial-intelligence
+ 
+
 
 
 ## Stars Align
