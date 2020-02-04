@@ -14,7 +14,10 @@ By: Dr Peter Leong (peterleong@sp.edu.sg)
 * [National AI Strategy](https://www.smartnation.sg/why-Smart-Nation/NationalAIStrategy)
 
 ## Society 5.0
-[]
+[Japan Cabinet Office Site](https://www8.cao.go.jp/cstp/english/society5_0/index.html)
+[Pan to take civilization to the next level](https://www.slashgear.com/society-5-0-japans-plan-to-take-civilization-to-the-next-level-14595383/)
+[UNESCO: Japan pushing ahead with Society 5.0](https://en.unesco.org/news/japan-pushing-ahead-society-50-overcome-chronic-social-challenges)
+
 
 ## AI
 
