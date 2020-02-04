@@ -38,6 +38,8 @@ By: Dr Peter Leong (peterleong@sp.edu.sg)
 
 ## Enabling Society 5.0
 * AI IOT 5G ROBOTICS: Foundations of Society 5.0
+* [Society 5.0: Aiming for a New Human-centered Society](https://www.hitachi.com/rev/archive/2017/r2017_06/trends/index.html)
+* [Keidanren booklet: Society 5.0 Co-creating the Future](https://www.keidanren.or.jp/en/policy/2018/095_booklet.pdf)
 
 
 ## The Future Now
