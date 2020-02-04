@@ -24,14 +24,16 @@ By: Dr Peter Leong (peterleong@sp.edu.sg)
 
 ## AI
 * What is AI? https://www.britannica.com/technology/artificial-intelligence
-* [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity) 
+* [Andrew Ng: Why AI Is the New Electricity](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity)
 
+### Making AI more accessible
+* [Specialist Dip in Data Science AI](http://www.sp.edu.sg/pace/nsdai)
 
 
 ## Stars Align
-* 5G
-* IOT
-* ROBOTICS
+* 5G https://www.digitaltrends.com/mobile/5g-vs-lte/
+* IOT https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/india/authored-articles/5g-and-iot-ushering-in-a-new-era
+* ROBOTICS https://www.mobileworldlive.com/latest-stories/cloud-robots-the-killer-5g-application/
 
 
 ## Enabling Society 5.0
